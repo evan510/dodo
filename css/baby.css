@@ -2,6 +2,22 @@
     border: px solid yellow;
 }
 
+.nav h1 {
+    margin: 0 auto;
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+section {
+    padding-top: 30px;
+}
+
+footer {
+    font-size: 18px;
+    color: cornflowerblue;
+    text-align: right;
+}
+
 .row h1 {
     font-size: 26px;
     color: white;
@@ -11,7 +27,7 @@
     font-size: 20px;
     font-family: sans-serif;
     text-align: left;
-    color:skyblue
+    color: skyblue
 }
 
 .thumbnail img {
@@ -19,22 +35,24 @@
     height: 100%;
 }
 
-header{
+header {
     width: calc(100%*10/12);
     margin: 0 auto;
 }
 
-.trvel-img{
+.trvel-img {
     text-align: center;
     padding: 0;
     margin: 0;
 }
-.trvel-img img{
-    width:700px;
+
+.trvel-img img {
+    width: 700px;
 }
-.trvel-img p{
+
+.trvel-img p {
     font-size: 20px;
     font-family: sans-serif;
     color: skyblue;
-    text-align: left;   
+    text-align: left;
 }
