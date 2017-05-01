@@ -4,12 +4,13 @@
 
 body {
     background-image: url(../png/basephoto.jpg);
-    background-size: cover;
+    background-size: auto;
 }
 
 .nav h1 {
     margin: 0 auto;
-    font-size: 30px;color: cornflowerblue;
+    font-size: 40px;
+    color: cornflowerblue;
 }
 
 section {
