@@ -44,6 +44,7 @@ thumbnail {
 .thumbnail img {
     width: 100px;
     height: 100px;
+    box-shadow: 1px 1px 1px #ddd;
 }
 
 .jumbotron {
