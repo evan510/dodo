@@ -39,12 +39,13 @@ thumbnail {
 .thumbnail {
     border: 0px solid #ddd;
     border-radius: 5px;
+    box-shadow: 2px 2px 2px #ddd;
 }
 
 .thumbnail img {
     width: 100px;
     height: 100px;
-    box-shadow: 1px 1px 1px #ddd;
+    
 }
 
 .jumbotron {
